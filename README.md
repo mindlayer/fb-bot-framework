@@ -5,6 +5,10 @@
 ```bash
 npm install fb-bot-framework --save
 ```
+## Run
+```bash
+node index.js
+```
 
 ## Features
 * work as Express Middleware
